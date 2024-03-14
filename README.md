@@ -21,6 +21,8 @@ Easy Integration with Sklearn Ecosystem:
 The model is seamlessly integrated with the Sklearn ecosystem, allowing users to take advantage of the library's extensive functionality for preprocessing, feature engineering, and model evaluation. This ensures a smooth and streamlined workflow for both training and deploying the real estate price prediction model.
 Enhance your real estate decision-making processes by harnessing the power of our Sklearn-based machine learning model. Make informed decisions, mitigate risks, and maximize returns with accurate real estate price predictions based on 13 crucial attributes.
 
+To See Video Explanation Visit This Link - https://www.linkedin.com/posts/suyash-jadaun-4bb888234_realestaterevolution-mlmagic-activity-7150967674020208640-imAh?utm_source=share&utm_medium=member_desktop
+
 
 
 
